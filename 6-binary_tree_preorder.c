@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- *binary_tree_preorder - function that goes through a binary tree using pre-order traversal
+ *binary_tree_preorder - binary tree using pre-order traversal
  *
  *@tree: struct pointer
  *@func: function pointer
