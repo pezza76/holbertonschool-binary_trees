@@ -6,7 +6,6 @@
  *binary_tree_delete - deletes a binary tree
  *
  *@tree: node
- *@Return: void
 */
 
 void binary_tree_delete(binary_tree_t *tree)
